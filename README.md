@@ -32,12 +32,14 @@ python main.py
 
 ## Estructura del proyecto
 
+```
 inventario/
 ├── inventario.py      # Lógica del inventario
 ├── producto.py        # Clase Producto
 ├── main.py            # Menú interactivo
 ├── lista.json         # Archivo de datos
 └── README.md          # Este archivo
+```
 
 ## Tecnologías utilizadas
 
