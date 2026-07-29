@@ -1,0 +1,21 @@
+{
+  "contador_id": 3,
+  "productos": [
+    {
+      "id": 2,
+      "nombre": "cacas",
+      "precio": 234,
+      "cantidad": 23,
+      "categoria": "cacas1",
+      "fecha": "2026-07-29 11:51"
+    },
+    {
+      "id": 3,
+      "nombre": "cacassssss",
+      "precio": 345,
+      "cantidad": 2,
+      "categoria": "cacas2",
+      "fecha": "2026-07-29 11:52"
+    }
+  ]
+}
