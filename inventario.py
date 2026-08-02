@@ -46,7 +46,7 @@ class Inventario:
         try:
             newProduct = Producto (nombre,categoria,precio,cantidad)
             self.contador_id += 1
-            newProduct.id = self.contador_id
+            newProduct.asignar_id(self.contador_id)
             self.productos.append(newProduct)
             self.guardar()
             return newProduct
